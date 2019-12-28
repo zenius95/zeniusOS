@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git clone https://aur.archlinux.org/aic94xx-firmware.git
 cd aic94xx-firmware
 makepkg -sri
